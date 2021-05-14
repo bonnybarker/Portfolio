@@ -2,14 +2,14 @@ body {
   padding-top: 5rem;
   margin: 5em;
   color: black;
-  background: white;
+  background: white ;
 
   
 }
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: left;
- 
+
   
 }
 .nav-p{
@@ -19,9 +19,11 @@ body {
   margin-right:1rem;
   font-size:1.25rem;
 
+
   line-height:inherit;
   white-space:nowrap;
-  color: white;
+  color:white;
   
 }
+
 
